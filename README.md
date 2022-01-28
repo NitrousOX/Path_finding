@@ -5,12 +5,12 @@ Work in progress (currently can tell which squares have a relation)
 2. Then create the fields
 
 example input:
-3 3
-S..
-#.#
-E##
+ 3 3
+ S..
+ #.#
+ E##
 
-S- means starting position
-E- end position
-. - clear space
-# - used space(can't acces)
+/S- means starting position
+/E- end position
+/. - clear space
+/# - used space(can't acces)
